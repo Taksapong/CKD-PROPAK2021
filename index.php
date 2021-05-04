@@ -94,17 +94,15 @@ div.WordSection1
  <tr>
   <td height=227></td>
   <td colspan=36 align=left valign=top><map name=MicrosoftOfficeMap0><area
-  shape=Rect coords="285, 130, 316, 155" nohref><area shape=Rect
-  coords="386, 130, 417, 155" nohref><area shape=Rect
-  coords="477, 130, 508, 155" nohref><area shape=Rect
-  coords="423, 78, 487, 142" href="https://www.ckd.co.jp/en/" title=""><area
-  shape=Rect coords="327, 87, 394, 134"
+  shape=Rect coords="431, 83, 495, 147" href="https://www.ckd.co.jp/en/"
+  title=""><area shape=Rect coords="235, 70, 509, 160" nohref><area shape=Rect
+  coords="335, 92, 402, 139"
   href="https://www.youtube.com/channel/UC8b9F68PBqUzWrNCIMXBrgA" title=""><area
-  shape=Rect coords="235, 78, 299, 142"
+  shape=Rect coords="243, 83, 307, 147"
   href="https://th-th.facebook.com/pages.ckd" title=""></map><img border=0
   width=696 height=227 src="index_files/image001.png"
   usemap="#MicrosoftOfficeMap0"
-  alt="Facebook อิสระ ไอคอน ของ Squareplex Icons,Mr.JingJun: 2015,Hand Click Icon In Trendy Outline Style Design Vector Graphic Illustration  Click Symbol For Website Design Logo App And Ui Stock Illustration -  Download Image Now - iStock,Hand Click Icon In Trendy Outline Style Design Vector Graphic Illustration  Click Symbol For Website Design Logo App And Ui Stock Illustration -  Download Image Now - iStock,Hand Click Icon In Trendy Outline Style Design Vector Graphic Illustration  Click Symbol For Website Design Logo App And Ui Stock Illustration -  Download Image Now - iStock"></td>
+  alt="Facebook อิสระ ไอคอน ของ Squareplex Icons,Click here button with hand icon Royalty Free Vector Image,Mr.JingJun: 2015"></td>
  </tr>
  <tr>
   <td height=19></td>
