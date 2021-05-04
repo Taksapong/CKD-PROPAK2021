@@ -94,15 +94,14 @@ div.WordSection1
  <tr>
   <td height=227></td>
   <td colspan=36 align=left valign=top><map name=MicrosoftOfficeMap0><area
-  shape=Rect coords="431, 83, 495, 147" href="https://www.ckd.co.jp/en/"
-  title=""><area shape=Rect coords="235, 70, 509, 160" nohref><area shape=Rect
+  shape=Rect coords="243, 83, 307, 147"
+  href="https://th-th.facebook.com/pages.ckd" title=""><area shape=Rect
   coords="335, 92, 402, 139"
   href="https://www.youtube.com/channel/UC8b9F68PBqUzWrNCIMXBrgA" title=""><area
-  shape=Rect coords="243, 83, 307, 147"
-  href="https://th-th.facebook.com/pages.ckd" title=""></map><img border=0
-  width=696 height=227 src="index_files/image001.png"
-  usemap="#MicrosoftOfficeMap0"
-  alt="Facebook อิสระ ไอคอน ของ Squareplex Icons,Click here button with hand icon Royalty Free Vector Image,Mr.JingJun: 2015"></td>
+  shape=Rect coords="431, 83, 495, 147" href="https://www.ckd.co.jp/en/"
+  title=""></map><img border=0 width=696 height=227
+  src="index_files/image001.png" usemap="#MicrosoftOfficeMap0"
+  alt="Click here button with hand icon Royalty Free Vector Image,Mr.JingJun: 2015,Facebook อิสระ ไอคอน ของ Squareplex Icons"></td>
  </tr>
  <tr>
   <td height=19></td>
